@@ -1,0 +1,343 @@
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמנאללא.exe"
+Args length:	44/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\IntellijIdeaJava\Cart\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;C:\Program Files (x86)\dotnet\;C:\Windows\System32;C:\Windows\system32;C:\Program Files\Java\jdk-21;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python310\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\SpringSait\IntelliJ IDEA 2023.2.2\bin;;C:\Users\user\AppData\Local\Muse Hub\lib;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\user\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3;C:\Users\user\Miniconda3\Scripts;C:\Users\user\Miniconda3\condabin;C:\Users\user\AppData\Local\Programs\Devin\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\IntellijIdeaJava\Cart\ןנמדנאללא.exe"
+Args length:	45/32768 chars
+Exit code:	0
